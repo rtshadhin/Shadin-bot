@@ -1,0 +1,26 @@
+{
+  "author": "Nayan",
+  "version": "1.5.7",
+  "autoRestart": true,
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": false,
+  "BOTNAME": "SHADHIN-BOT",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100051192304966",
+    ""
+  ],
+  "ADMINBOT": [
+    "100051192304966",
+    ""
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [
+  ],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": " dont cng auther name and owner uid. otherwise bot not working"
+}
