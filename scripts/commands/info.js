@@ -34,8 +34,8 @@ var callback = () => api.sendMessage({body:`
 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: Rajshahi Natore
 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: Rajshahi Natore
 𝐆𝐞𝐧𝐝𝐞𝐫.   : Male
-𝐀𝐠𝐞           : 18+
-𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : Single
+𝐀𝐠𝐞           : 14+
+𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : Mingle
 𝐖𝐨𝐫𝐤        : Student
 𝐆𝐦𝐚𝐢𝐥       : rtshadhin@gmail.com
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+8801741298129
